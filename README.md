@@ -1,4 +1,4 @@
-# FinalProject1011
+# Machine Translation Systems
 
 Final project by Yada Pruksachatkun, Vish Rajiv, Zhihan Li, and Ziv Schwartz
 
