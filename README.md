@@ -2,7 +2,7 @@
 
 Report: https://github.com/zivschwartz/Machine-Translation-Systems/blob/master/1011_Final_Report.pdf
 
-FILES: 
+**Files:**
 
 Models: 
  - model_architecutres.py
